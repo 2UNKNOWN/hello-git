@@ -6,6 +6,8 @@ public class HelloGit {
 		
 		// test comment 
 		System.out.println("hello git");
+		
+		System.out.println("test");
 
 	}
 
