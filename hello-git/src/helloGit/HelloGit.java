@@ -4,11 +4,11 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 		
-		// test comment 
-		System.out.println("hello git");
+		// checking things 
+		System.out.println("hello my friend ");
 		
-		// test
-		System.out.println("test");
+		// changing print line 
+		System.out.println("how are you doing today");
 		// another one 
 	}
 
